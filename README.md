@@ -2,7 +2,7 @@
 
 # Práctica 1: Diseño de controladores
 
-## Información del estudiante
+## Información de la estudiante
 Ximena Solis Marrufo\[22212274]; l22212274@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
